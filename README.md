@@ -1,1 +1,1 @@
-# login-registration-practice
+Welcome to our Login and Registration project.
